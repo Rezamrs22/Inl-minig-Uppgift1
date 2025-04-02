@@ -1,0 +1,11 @@
+C:\Users\Reza\Desktop\Developer\Testing\Inläminig-Uppgift\unit-testing-using-mstest\PrimeService\bin\Debug\net9.0\PrimeService.deps.json
+C:\Users\Reza\Desktop\Developer\Testing\Inläminig-Uppgift\unit-testing-using-mstest\PrimeService\bin\Debug\net9.0\PrimeService.dll
+C:\Users\Reza\Desktop\Developer\Testing\Inläminig-Uppgift\unit-testing-using-mstest\PrimeService\bin\Debug\net9.0\PrimeService.pdb
+C:\Users\Reza\Desktop\Developer\Testing\Inläminig-Uppgift\unit-testing-using-mstest\PrimeService\obj\Debug\net9.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reza\Desktop\Developer\Testing\Inläminig-Uppgift\unit-testing-using-mstest\PrimeService\obj\Debug\net9.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\Reza\Desktop\Developer\Testing\Inläminig-Uppgift\unit-testing-using-mstest\PrimeService\obj\Debug\net9.0\PrimeService.AssemblyInfo.cs
+C:\Users\Reza\Desktop\Developer\Testing\Inläminig-Uppgift\unit-testing-using-mstest\PrimeService\obj\Debug\net9.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\Reza\Desktop\Developer\Testing\Inläminig-Uppgift\unit-testing-using-mstest\PrimeService\obj\Debug\net9.0\PrimeService.dll
+C:\Users\Reza\Desktop\Developer\Testing\Inläminig-Uppgift\unit-testing-using-mstest\PrimeService\obj\Debug\net9.0\refint\PrimeService.dll
+C:\Users\Reza\Desktop\Developer\Testing\Inläminig-Uppgift\unit-testing-using-mstest\PrimeService\obj\Debug\net9.0\PrimeService.pdb
+C:\Users\Reza\Desktop\Developer\Testing\Inläminig-Uppgift\unit-testing-using-mstest\PrimeService\obj\Debug\net9.0\ref\PrimeService.dll
